@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/plant_shop_ongoing/static/css/main.7df31b29.css",
+    "main.css": "/plant_shop_ongoing/static/css/main.3602f77d.css",
     "main.js": "/plant_shop_ongoing/static/js/main.7ae881ad.js",
     "static/media/succulent.png": "/plant_shop_ongoing/static/media/succulent.9168e76df1dbcf279f9e.png",
     "static/media/product_8.png": "/plant_shop_ongoing/static/media/product_8.6d66456141921cbc8b7b.png",
@@ -40,11 +40,11 @@
     "static/media/product_12.jpg": "/plant_shop_ongoing/static/media/product_12.3e4b632d27ff966297c0.jpg",
     "static/media/product_30.jpg": "/plant_shop_ongoing/static/media/product_30.a90983fd8de1e74fe121.jpg",
     "index.html": "/plant_shop_ongoing/index.html",
-    "main.7df31b29.css.map": "/plant_shop_ongoing/static/css/main.7df31b29.css.map",
+    "main.3602f77d.css.map": "/plant_shop_ongoing/static/css/main.3602f77d.css.map",
     "main.7ae881ad.js.map": "/plant_shop_ongoing/static/js/main.7ae881ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.7df31b29.css",
+    "static/css/main.3602f77d.css",
     "static/js/main.7ae881ad.js"
   ]
 }
