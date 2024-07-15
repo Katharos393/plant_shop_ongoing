@@ -15,3 +15,6 @@ Moving to the seeds category.
 
 This is the pots & planters category.
 ![plant4](https://github.com/user-attachments/assets/b87a63ff-a114-404b-8665-e092e52afe22)
+
+This is the signup page.
+![plant5](https://github.com/user-attachments/assets/7c250f8d-2ed8-4afd-85f6-ee7aad4341b8)
